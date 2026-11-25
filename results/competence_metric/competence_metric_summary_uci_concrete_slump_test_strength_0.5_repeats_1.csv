@@ -1,0 +1,4 @@
+dataset,method,mean_rmse,sd_rmse,mean_active_metric_features
+UCI Concrete Slump Test,competence_metric_local,7.0821457410210655,1.8592644594270031,0.2
+UCI Concrete Slump Test,euclidean_local,7.0821457410210655,1.8592644594270031,0.0
+UCI Concrete Slump Test,global_stacking,7.0821457410210655,1.8592644594270031,0.0

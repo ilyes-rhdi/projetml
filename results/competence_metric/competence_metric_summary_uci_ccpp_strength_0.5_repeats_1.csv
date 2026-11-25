@@ -1,0 +1,4 @@
+dataset,method,mean_rmse,sd_rmse,mean_active_metric_features
+UCI CCPP,competence_metric_local,3.34974864472458,0.18137260810423855,1.6
+UCI CCPP,euclidean_local,3.3668413785672398,0.18380453446314168,0.0
+UCI CCPP,global_stacking,3.3665717264755535,0.18378641370891288,0.0

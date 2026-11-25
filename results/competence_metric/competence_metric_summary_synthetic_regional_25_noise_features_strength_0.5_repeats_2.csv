@@ -1,0 +1,4 @@
+dataset,method,mean_rmse,sd_rmse,mean_active_metric_features
+Synthetic regional + 25 noise features,competence_metric_local,1.5644780998228132,0.1050596085987545,0.8
+Synthetic regional + 25 noise features,euclidean_local,1.592265801065011,0.09174936329919049,0.0
+Synthetic regional + 25 noise features,global_stacking,1.591330738227183,0.09683262101353537,0.0

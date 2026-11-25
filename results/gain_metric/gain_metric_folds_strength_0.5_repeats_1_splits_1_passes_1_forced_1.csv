@@ -1,0 +1,9 @@
+dataset,repeat,fold,method,rmse,shrink,active_metric_features,top_metric_features
+Synthetic regional + 25 noise features,1,1,euclidean_local,2.0261214116071615,1.0,0,"29,28,27,26,25"
+Synthetic regional + 25 noise features,1,1,current_mi,2.0261214116071615,1.0,0,"29,28,27,26,25"
+Synthetic regional + 25 noise features,1,1,gain_oriented,2.0247811490450416,1.0,5,"29,18,10,4,9"
+Synthetic regional + 25 noise features,1,1,global_stacking,2.0239419042391833,inf,0,
+Synthetic regional + 25 noise features,1,2,euclidean_local,1.8985517585690375,1.0,0,"29,28,27,26,25"
+Synthetic regional + 25 noise features,1,2,current_mi,1.8985517585690375,1.0,0,"29,28,27,26,25"
+Synthetic regional + 25 noise features,1,2,gain_oriented,1.900389680722441,1.0,7,"25,0,6,9,8"
+Synthetic regional + 25 noise features,1,2,global_stacking,1.9246318668097735,inf,0,

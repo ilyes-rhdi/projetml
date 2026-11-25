@@ -1,0 +1,16 @@
+dataset,repeat,fold,method,rmse,shrink,active_metric_features,top_metric_features
+UCI Appliances Energy (3000 sample),1,1,euclidean_local,98.63757649960448,inf,0,"26,25,24,23,22"
+UCI Appliances Energy (3000 sample),1,1,competence_metric_local,98.63757649960448,inf,0,"26,25,24,23,22"
+UCI Appliances Energy (3000 sample),1,1,global_stacking,98.63757649960448,inf,0,
+UCI Appliances Energy (3000 sample),1,2,euclidean_local,94.60148526947661,inf,0,"26,25,24,23,22"
+UCI Appliances Energy (3000 sample),1,2,competence_metric_local,94.60148526947661,inf,2,"1,5,26,23,22"
+UCI Appliances Energy (3000 sample),1,2,global_stacking,94.60148526947661,inf,0,
+UCI Appliances Energy (3000 sample),1,3,euclidean_local,84.0215092182947,inf,0,"26,25,24,23,22"
+UCI Appliances Energy (3000 sample),1,3,competence_metric_local,84.0215092182947,inf,3,"26,25,11,23,22"
+UCI Appliances Energy (3000 sample),1,3,global_stacking,84.0215092182947,inf,0,
+UCI Appliances Energy (3000 sample),1,4,euclidean_local,75.0773218996029,inf,0,"26,25,24,23,22"
+UCI Appliances Energy (3000 sample),1,4,competence_metric_local,75.0773218996029,inf,1,"20,25,26,24,23"
+UCI Appliances Energy (3000 sample),1,4,global_stacking,75.0773218996029,inf,0,
+UCI Appliances Energy (3000 sample),1,5,euclidean_local,80.76760927073266,inf,0,"26,25,24,23,22"
+UCI Appliances Energy (3000 sample),1,5,competence_metric_local,80.76760927073266,inf,1,"20,25,26,24,23"
+UCI Appliances Energy (3000 sample),1,5,global_stacking,80.76760927073266,inf,0,

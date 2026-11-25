@@ -1,0 +1,4 @@
+dataset,method,mean_rmse,sd_rmse,mean_active_metric_features
+UCI Student Performance (Math),competence_metric_local,1.6646409892758007,0.4542208753675638,0.0
+UCI Student Performance (Math),euclidean_local,1.6646409892758007,0.4542208753675638,0.0
+UCI Student Performance (Math),global_stacking,1.6646409892758007,0.4542208753675638,0.0

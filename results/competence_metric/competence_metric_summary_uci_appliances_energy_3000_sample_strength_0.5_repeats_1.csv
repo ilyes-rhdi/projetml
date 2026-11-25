@@ -1,0 +1,4 @@
+dataset,method,mean_rmse,sd_rmse,mean_active_metric_features
+UCI Appliances Energy (3000 sample),competence_metric_local,86.62110043154226,9.777043204568278,1.4
+UCI Appliances Energy (3000 sample),euclidean_local,86.62110043154226,9.777043204568278,0.0
+UCI Appliances Energy (3000 sample),global_stacking,86.62110043154226,9.777043204568278,0.0

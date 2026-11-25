@@ -1,0 +1,16 @@
+dataset,repeat,fold,method,rmse,shrink,active_metric_features,top_metric_features
+UCI Concrete Slump Test,1,1,euclidean_local,4.637918981878016,inf,0,"6,5,4,3,2"
+UCI Concrete Slump Test,1,1,competence_metric_local,4.637918981878016,inf,0,"6,5,4,3,2"
+UCI Concrete Slump Test,1,1,global_stacking,4.637918981878016,inf,0,
+UCI Concrete Slump Test,1,2,euclidean_local,5.518779858077225,inf,0,"6,5,4,3,2"
+UCI Concrete Slump Test,1,2,competence_metric_local,5.518779858077225,inf,0,"6,5,4,3,2"
+UCI Concrete Slump Test,1,2,global_stacking,5.518779858077225,inf,0,
+UCI Concrete Slump Test,1,3,euclidean_local,8.502201980995922,inf,0,"6,5,4,3,2"
+UCI Concrete Slump Test,1,3,competence_metric_local,8.502201980995922,inf,1,"6,5,4,3,2"
+UCI Concrete Slump Test,1,3,global_stacking,8.502201980995922,inf,0,
+UCI Concrete Slump Test,1,4,euclidean_local,8.226134194662963,inf,0,"6,5,4,3,2"
+UCI Concrete Slump Test,1,4,competence_metric_local,8.226134194662963,inf,0,"6,5,4,3,2"
+UCI Concrete Slump Test,1,4,global_stacking,8.226134194662963,inf,0,
+UCI Concrete Slump Test,1,5,euclidean_local,8.525693689491197,inf,0,"6,5,4,3,2"
+UCI Concrete Slump Test,1,5,competence_metric_local,8.525693689491197,inf,0,"6,5,4,3,2"
+UCI Concrete Slump Test,1,5,global_stacking,8.525693689491197,inf,0,

@@ -1,0 +1,4 @@
+dataset,method,mean_rmse,sd_rmse,mean_active_metric_features
+UCI Bike Sharing (daily),competence_metric_local,643.9897468257363,59.47507558160675,0.3
+UCI Bike Sharing (daily),euclidean_local,644.540366568814,59.389511927161166,0.0
+UCI Bike Sharing (daily),global_stacking,655.9306164772345,60.07200130639285,0.0
